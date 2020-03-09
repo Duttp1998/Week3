@@ -1,6 +1,6 @@
 import statistics
 
-class median:
+class Median:
     @staticmethod
     def median(data):
         return statistics.median(data)

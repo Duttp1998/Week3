@@ -1,7 +1,7 @@
 import statistics
 
-class mode:
+class Mode:
     @staticmethod
-    def Mode(data):
+    def mode(data):
         return statistics.mode(data)
 

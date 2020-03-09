@@ -1,6 +1,6 @@
 import random
 
-class nNumber():
+class Nnumber():
     @staticmethod
     def nnumber(list1):
         update1 =random.choices(list1)

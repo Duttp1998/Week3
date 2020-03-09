@@ -1,7 +1,7 @@
 import statistics
 
-class variance:
+class Variance:
     @staticmethod
-    def Variance(data):
+    def variance(data):
         return statistics.variance(data)
 
